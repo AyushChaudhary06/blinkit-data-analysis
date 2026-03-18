@@ -76,6 +76,9 @@ EDA was performed using **Python (Pandas & Matplotlib)** to understand patterns 
 
 Additionally, an automated EDA report was generated using Sweetviz for deeper insights.
 
+<p align="center">
+<img src="Report/sweetviz/figures/02overview.png" width="700">
+</p>
 ---
 
 ## 🤖 6. Machine Learning Model
