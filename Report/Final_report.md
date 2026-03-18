@@ -128,6 +128,9 @@ Built using Tableau to visualize:
 * Location-based insights
 * Customer purchase trends
 
+<p align="center">
+<img src="dashboards/screenshots/blinkit_analysis_screenshots/Tableau Dashboard.png" width="700">
+</p>
 ---
 
 ### 🔹 Sales Prediction Dashboard 🤖
@@ -139,6 +142,9 @@ Focused on machine learning insights:
 * Top performing items
 * Interactive filters for better exploration
 
+<p align="center">
+<img src="dashboards/screenshots/sales_prediction_screenshots/overview dashboard.png" width="700">
+</p>
 ---
 
 ## 🧠 9. Key Insights
