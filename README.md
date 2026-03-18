@@ -20,7 +20,7 @@ An end-to-end data analysis and machine learning project on Blinkit’s grocery 
 
 ## 📊 Dashboards
 <p align="center">
-  <img src="dashboards/Screenshots/data_analysis_screenshots/Tableau Dashboard.png" width="700">
+  <img src="dashboards/screenshots/blinkit_analysis_screenshots/Tableau Dashboard.png" width="700">
 </p>
 
 
