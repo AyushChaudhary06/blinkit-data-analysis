@@ -132,7 +132,7 @@ Built using Tableau to visualize:
 * Customer purchase trends
 
 <p align="center">
-<img src="screenshots/Tableau Dashboard.png" width="700">
+<img src="Screenshots/Tableau Dashboard.png" width="700">
 </p>
 ---
 
@@ -146,7 +146,7 @@ Focused on machine learning insights:
 * Interactive filters for better exploration
 
 <p align="center">
-<img src="screenshots/overview dashboard.png" width="700">
+<img src="Screenshots/overview dashboard.png" width="700">
 </p>
 ---
 
