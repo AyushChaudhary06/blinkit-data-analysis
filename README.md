@@ -19,9 +19,6 @@ An end-to-end data analysis and machine learning project on Blinkit’s grocery 
 ---
 
 ## 📊 Dashboards
-<p align="center">
-  <img src="dashboards/screenshots/blinkit_analysis_screenshots/Tableau Dashboard.png" width="700">
-</p>
 
 
 ### 1️⃣ Business Analysis Dashboard
@@ -31,6 +28,10 @@ An end-to-end data analysis and machine learning project on Blinkit’s grocery 
 * Location-based insights (Tier-wise sales)
 * Customer purchase trends
 
+<p align="center">
+<img src="dashboards/screenshots/blinkit_analysis_screenshots/Tableau Dashboard.png" width="700">
+</p>
+
 ### 2️⃣ Sales Prediction Dashboard 🤖
 
 * Actual vs Predicted Sales comparison
@@ -38,6 +39,9 @@ An end-to-end data analysis and machine learning project on Blinkit’s grocery 
 * High vs low performing products
 * Interactive filters for item & outlet
 
+<p align="center">
+<img src="dashboards/screenshots/sales_prediction_screenshots/overview dashboard.png" width="700">
+</p>
 ---
 
 ## 📈 Sample Insights
